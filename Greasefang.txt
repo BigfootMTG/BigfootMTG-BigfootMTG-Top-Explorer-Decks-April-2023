@@ -1,0 +1,29 @@
+Deck
+4 Raffine's Informant (SNC) 26
+2 Scrapwork Mutt (BRO) 164
+4 Greasefang, Okiba Boss (NEO) 220
+2 Skysovereign, Consul Flagship (KLR) 272
+4 Parhelion II (WAR) 24
+4 Esika's Chariot (KHM) 169
+4 Grisly Salvage (RTR) 165
+3 Traverse the Ulvenwald (SIR) 220
+2 Witherbloom Command (STX) 248
+3 Can't Stay Away (MID) 213
+4 Thoughtseize (AKR) 127
+3 Vessel of Nascency (SIR) 224
+2 Brightclimb Pathway (ZNR) 259
+3 Temple Garden (GRN) 258
+4 Overgrown Tomb (GRN) 253
+3 Razorverge Thicket (ONE) 257
+1 Swamp (MIR) 340
+4 Godless Shrine (RNA) 248
+4 Darkbore Pathway (KHM) 254
+
+Sideboard
+2 Duress (M20) 97
+4 Liliana of the Veil (DMU) 97
+1 Unlicensed Hearse (SNC) 246
+1 Unlicensed Hearse (SNC) 246
+2 Ray of Enfeeblement (AFR) 116
+4 Fatal Push (KLR) 84
+1 Knight of Autumn (GRN) 183

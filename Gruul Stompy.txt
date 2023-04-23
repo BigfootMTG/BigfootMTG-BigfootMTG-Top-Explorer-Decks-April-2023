@@ -1,0 +1,34 @@
+Companion
+1 Jegantha, the Wellspring (IKO) 222
+
+Deck
+1 Boseiju, Who Endures (NEO) 266
+4 Cragcrown Pathway (ZNR) 261
+2 Den of the Bugbear (AFR) 254
+1 Forest (MIR) 347
+4 Karplusan Forest (DMU) 250
+2 Lair of the Hydra (AFR) 259
+3 Mountain (MIR) 346
+2 Mutavault (M14) 228
+1 Sokenzan, Crucible of Defiance (NEO) 276
+4 Stomping Ground (RNA) 259
+4 Bonecrusher Giant (ELD) 115
+4 Elvish Mystic (M14) 169
+4 Llanowar Elves (M19) 314
+4 Lovestruck Beast (ELD) 165
+4 Reckless Stormseeker (MID) 157
+2 Scavenging Ooze (M21) 204
+3 Obliterating Bolt (BRO) 145
+4 Esika's Chariot (KHM) 169
+3 Skysovereign, Consul Flagship (KLR) 272
+4 The Akroan War (THB) 124
+
+Sideboard
+1 Jegantha, the Wellspring (IKO) 222
+2 Abrade (AKR) 136
+2 Cindervines (RNA) 161
+2 Embercleave (ELD) 120
+2 Hazoret the Fervent (AKR) 159
+2 Klothys, God of Destiny (THB) 220
+2 Rending Volley (DTK) 150
+2 Unlicensed Hearse (SNC) 246
